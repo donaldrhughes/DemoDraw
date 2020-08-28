@@ -3,3 +3,5 @@
 
 This is a demo of a frame animation in Android Studio.
 It can be used as a simple template to make your own animations.
+
+Includes gradle for build.
